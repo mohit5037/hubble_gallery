@@ -37,7 +37,7 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 import io.fabric.sdk.android.Fabric;
 
-
+// Main activity class
 public class ActMain extends AppCompatActivity implements FragMain.FragMainCallbacks {
 
     private static String TAG = "ActMain";
